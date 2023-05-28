@@ -40,7 +40,7 @@
 
     <style>
     .background-image {
-        background-image: url('/imagenes/fondo1.jpg');
+        background-image: url('/imagenes/fondo6.jpg');
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
@@ -53,9 +53,69 @@
     </style>
 
     <div class="background-image">
-        
+        <div class="container">
+            <br>
+            <h2 class="display-4 text-center">Lugares Representativos</h2>
+            <br>
+            <div class="row">
+                <div class="col-md-6 mb-4">
+                    <div class="card">
+                        <img src="/imagenes/barcelona1.jpg" class="card-img-top" alt="Paisaje Barcelona 1">
+                        <div class="card-body">
+                            <h5 class="card-title">Barcelona</h5>
+                            <p class="card-text">Parque Güell</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 mb-4">
+                    <div class="card">
+                        <img src="/imagenes/barcelona2.jpg" class="card-img-top" alt="Paisaje Barcelona 2">
+                        <div class="card-body">
+                            <h5 class="card-title">Barcelona</h5>
+                            <p class="card-text">Montjuïc</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 mb-4">
+                    <div class="card">
+                        <img src="/imagenes/paris1.jpg" class="card-img-top" alt="Paisaje París 1">
+                        <div class="card-body">
+                            <h5 class="card-title">París</h5>
+                            <p class="card-text">Jardines de Luxemburgo</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 mb-4">
+                    <div class="card">
+                        <img src="/imagenes/paris2.jpg" class="card-img-top" alt="Paisaje París 2">
+                        <div class="card-body">
+                            <h5 class="card-title">París</h5>
+                            <p class="card-text">Jardín de las Tullerías</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 mb-4">
+                    <div class="card">
+                        <img src="/imagenes/ny1.jpg" class="card-img-top" alt="Paisaje Nueva York 1">
+                        <div class="card-body">
+                            <h5 class="card-title">Nueva York</h5>
+                            <p class="card-text">Central Park</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 mb-4">
+                    <div class="card">
+                        <img src="/imagenes/ny2.jpg" class="card-img-top" alt="Paisaje Nueva York 2">
+                        <div class="card-body">
+                            <h5 class="card-title">Nueva York</h5>
+                            <p class="card-text">High Line Park</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
-  
+
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.7/dist/umd/popper.min.js" integrity="sha384-zYPOMqeu1DAVkHiLqWBUTcbYfZ8osu1Nd6Z89ify25QV9guujx43ITvfi12/QExE" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.min.js" integrity="sha384-Y4oOpwW3duJdCWv5ly8SCFYWqFDsfob/3GkgExXKV4idmbt98QcxXYs9UoXAB7BZ" crossorigin="anonymous"></script>
 </body>

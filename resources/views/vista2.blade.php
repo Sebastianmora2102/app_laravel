@@ -40,7 +40,7 @@
 
     <style>
     .background-image {
-        background-image: url('/imagenes/fondo2.jpg');
+        background-image: url('/imagenes/fondo5.jpg');
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
