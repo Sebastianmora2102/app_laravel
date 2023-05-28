@@ -40,7 +40,7 @@
 
     <style>
     .background-image {
-        background-image: url('/imagenes/fondo1.jpg');
+        background-image: url('/imagenes/fondo2.jpg');
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
@@ -52,8 +52,45 @@
     }
     </style>
 
+    <div class="background-image">
+        <div class="container text-center">
+            <h2>Destinos populares</h2>
+            <div class="row justify-content-center">
+                <div class="col-md-6 mb-4">
+                    <div class="card">
+                        <img src="/imagenes/barcelona.jpg" class="card-img-top" alt="Destino 1">
+                        <div class="card-body">
+                            <h5 class="card-title">BARCELONA</h5>
+                            <p class="card-text">Barcelona es una ciudad vibrante ubicada en la costa noreste de España. Es conocida por su arquitectura impresionante, playas soleadas y animada vida nocturna. Entre los puntos de interés se encuentra la famosa iglesia inacabada de la Sagrada Familia diseñada por Antoni Gaudí, el histórico Barrio Gótico con sus estrechas calles medievales, y el animado paseo marítimo de Las Ramblas. Barcelona también es reconocida por su deliciosa gastronomía, con platos tradicionales como la paella y tapas abundantes.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-md-6 mb-4">
+                    <div class="card">
+                        <img src="/imagenes/paris.jpg" class="card-img-top" alt="Destino 2">
+                        <div class="card-body">
+                            <h5 class="card-title">PARIS</h5>
+                            <p class="card-text">París, la capital de Francia, es conocida como la Ciudad de la Luz y es uno de los destinos más románticos del mundo. La ciudad está repleta de famosos monumentos, como la icónica Torre Eiffel, la majestuosa Catedral de Notre-Dame y el imponente Museo del Louvre, que alberga obras maestras como la Mona Lisa. París también ofrece encantadores paseos por el río Sena, hermosos jardines como los de Versalles y una exquisita gastronomía que incluye croissants, baguettes, quesos y vinos. Sumérgete en la historia, la cultura y el ambiente romántico de París.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-md-6 mb-4">
+                    <div class="card">
+                        <img src="/imagenes/ny.jpg" class="card-img-top" alt="Destino 3">
+                        <div class="card-body">
+                            <h5 class="card-title">NEW YORK</h5>
+                            <p class="card-text">Nueva York, la ciudad que nunca duerme, es un destino lleno de energía y diversidad. Conocida como la Gran Manzana, es famosa por sus rascacielos imponentes, como el Empire State Building y el One World Trade Center, y sus emblemáticos lugares como Times Square y Central Park. Nueva York es un centro cultural y artístico, con museos de renombre mundial como el Museo Metropolitano de Arte y el Museo de Arte Moderno (MoMA). Además, la ciudad ofrece una gran variedad de opciones gastronómicas, desde puestos callejeros de comida hasta elegantes restaurantes. Disfruta del ambiente único y la energía inigualable de Nueva York.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
-  
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.7/dist/umd/popper.min.js" integrity="sha384-zYPOMqeu1DAVkHiLqWBUTcbYfZ8osu1Nd6Z89ify25QV9guujx43ITvfi12/QExE" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.min.js" integrity="sha384-Y4oOpwW3duJdCWv5ly8SCFYWqFDsfob/3GkgExXKV4idmbt98QcxXYs9UoXAB7BZ" crossorigin="anonymous"></script>
 </body>

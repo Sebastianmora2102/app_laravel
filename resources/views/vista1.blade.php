@@ -54,13 +54,7 @@
 
     <div class="background-image">
         <div class="d-flex justify-content-center align-items-center" style="height: 90vh;">
-        <div class="mr-3">
-            <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.6.0/icons/arrow-up.svg" alt="Flecha hacia arriba" width="150" height="150">
-        </div>
         <h1 class="display-4 text-center">SELECCIONE UNA DE LAS CATEGORÍAS</h1>
-        <div class="ml-3">
-            <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.6.0/icons/arrow-up.svg" alt="Flecha hacia arriba" width="150" height="150">
-        </div>
         </div>
     </div>
   
