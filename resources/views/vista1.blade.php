@@ -31,7 +31,7 @@
                         <a class="nav-link" href="/gastronomia">Gastronomia</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/paisajes">Lugares Reprensentativos</a>
+                        <a class="nav-link" href="/paisajes">Lugares Representativos</a>
                     </li>
                 </ul>
             </div>
