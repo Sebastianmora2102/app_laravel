@@ -46,7 +46,7 @@
         background-position: center;
         min-height: calc(100vh - 56px);
     }
-    .display-4 {
+    .display-4{
         font-family: 'Russo One', sans-serif; 
         color: #ffffff; 
     }
@@ -54,7 +54,9 @@
 
     <div class="background-image">
         <div class="container text-center">
-            <h2>Destinos populares</h2>
+            <br>
+            <h2 class="display-4 text-center">Destinos populares</h2>
+            <br>
             <div class="row justify-content-center">
                 <div class="col-md-6 mb-4">
                     <div class="card">
